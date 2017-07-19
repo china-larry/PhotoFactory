@@ -1,0 +1,30 @@
+<RCC>
+    <qresource prefix="/picture">
+        <file>image/open_files.png</file>
+        <file>image/undo.png</file>
+        <file>image/forward.png</file>
+        <file>image/open_folder.png</file>
+        <file>image/template.png</file>
+        <file>image/save_files.png</file>
+        <file>layer_item/clipp.png</file>
+        <file>layer_item/close_eye.png</file>
+        <file>layer_item/open_eye.png</file>
+        <file>layer_item/psd_image.png</file>
+        <file>layer_item/psd_star.png</file>
+        <file>color_adjust_layer/brightness_contrast.png</file>
+        <file>color_adjust_layer/color_balance.png</file>
+        <file>color_adjust_layer/curves.png</file>
+        <file>color_adjust_layer/gradient_map.png</file>
+        <file>color_adjust_layer/hue_saturation.png</file>
+        <file>color_adjust_layer/levels.png</file>
+        <file>color_adjust_layer/normal_color.png</file>
+        <file>color_adjust_layer/others.png</file>
+        <file>color_adjust_layer/selective_color.png</file>
+        <file>layer_item/transparent.png</file>
+        <file>image/conical_brush.png</file>
+        <file>image/linear_brush.png</file>
+        <file>image/radia_brush.png</file>
+        <file>image/radial_pen.png</file>
+        <file>image/solid_pen.png</file>
+    </qresource>
+</RCC>
